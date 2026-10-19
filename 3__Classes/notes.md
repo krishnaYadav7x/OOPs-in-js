@@ -2,4 +2,16 @@
 
 - A class is a blueprint for creating objects.
 
-- Imagine you want to create multiple users. Each user should have a name and an age, and you want them to have a method called introduce().
+- It defines the properties and methods that objects created from it can have.
+
+## Extends keyword
+
+- The extends keyword allows one class to inherit from another class.
+
+##  What is super?
+
+- The super keyword allows a child class to access functionality from its parent class.
+
+## Prototypal inheritance
+
+- Prototypal inheritance means an object can access properties and methods from another object through a prototype relationship.
